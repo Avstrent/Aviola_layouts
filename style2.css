@@ -1,14 +1,15 @@
 body > *{
     margin: 5px;
-    border: 1px solid black;
+    border: 2px solid black;
     text-align: center;
     font-size: 2rem;
    
 }
 main{
+    width: 100%;
     display: inline-block;
     border:none;
-    border-top-width: 12px;
+    
     
 
 }
@@ -21,6 +22,7 @@ nav{
 
 }
 footer{
+    
     padding: 30px;
     
     
@@ -28,12 +30,13 @@ footer{
 aside{
     margin: 10px;
     float: left;
-    width: 38%;
-    width: 1020px;
+    width: 50%;
+  
+    width: 910px;
  
     height: 100vh;
-    border: black 1px solid;
-    border-left-width: 2.0;
+    border: black 2px solid;
+    
     padding-top: 500px;
 
  
