@@ -1,0 +1,40 @@
+body > *{
+    margin: 5px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 2rem;
+   
+}
+main{
+    display: inline-block;
+    border:none;
+    border-top-width: 12px;
+    
+
+}
+header{
+    padding: 30px;
+    
+}
+nav{
+    padding: 30px;
+
+}
+footer{
+    padding: 30px;
+    
+    
+}
+aside{
+    margin: 10px;
+    float: left;
+    width: 38%;
+    width: 1020px;
+ 
+    height: 100vh;
+    border: black 1px solid;
+    border-left-width: 2.0;
+    padding-top: 500px;
+
+ 
+}
