@@ -28,7 +28,7 @@ header, nav, footer{
     width: 100%;
     max-width: 1020px;
     
-    height: 100vh;
+    height: 16vh;
     border: black 2px solid;
    
     padding-top: 500px;
@@ -39,29 +39,29 @@ header, nav, footer{
     padding: 50px;
     position:absolute;
     left:  56%;
-    top: 28%;
+    top: 23%;
     border: 2px solid black;
     margin : 20px;
-    height: 120px;
-    width: 160px;
+    height: 7vh;
+    width: 140px;
 }
 .About{
     padding: 50px;
     position:absolute;
     left:  72%;
-    top: 28%;
+    top: 23%;
     border: 2px solid black;
     margin : 20px;
-    height: 120px;
+    height: 7vh;
     width: 340px;
 }
 .RecentT{
     padding: 50px;
     position:absolute;
     left:  56%;
-    top: 56%;
+    top: 44%;
     border: 2px solid black;
     margin : 20px;
-    height: 100vh;
+    height: 32vh;
     width: 645px;
 }
