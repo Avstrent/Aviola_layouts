@@ -12,15 +12,27 @@ main{
     display: flex;
     flex-wrap: wrap;
     width: 1883px;
+    
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+
    
     
     
 
 }
-header, nav, footer{
+header{
+    padding: 30px;
+    
+    border-bottom-width: 0px;
+
+}
+nav, footer{
     padding: 30px;
     
 }
+
 
 .ContentA{
 
@@ -32,6 +44,8 @@ header, nav, footer{
     border: black 2px solid;
    
     padding-top: 500px;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
 
  
 }
